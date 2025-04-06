@@ -1,0 +1,7 @@
+# add files to ignore
+
+__pycache__
+venv
+.env
+alembic.ini
+
